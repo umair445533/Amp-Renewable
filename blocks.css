@@ -1,0 +1,13 @@
+.wc-block-cart-items__row.woofs-linked .wc-block-cart-item__remove-link {
+    display: none !important;
+}
+
+.wc-block-cart-items__row.woofs-linked .wc-block-cart-item__quantity {
+    pointer-events: none !important;
+}
+
+.wc-block-cart-items__row.woofs-linked.woofs-hide-linked {
+    display: none !important;
+}
+
+/*# sourceMappingURL=blocks.css.map */

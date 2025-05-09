@@ -1,0 +1,28 @@
+.featurebanner .text-link {
+color: #b2d235
+}
+.featurebanner .text-link i {
+		display: none;
+}
+.evo-table {
+    background: #fff;
+}
+.evo-table th {
+    background-color: #00567d;
+    color: #fff;
+}
+.evo-table tr.odd {
+    background-color: #efefef;
+}
+/* added from other plugin */
+section.plain-text.greybg .cta .btn-primary {
+    color: black;
+}
+.small-card img {
+    max-height: 72px;
+    max-width: 72px;
+}
+img.featured-card-icon.mb-3 {
+    max-height: 72px;
+    max-width: 72px;	
+}
